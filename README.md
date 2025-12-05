@@ -1,3 +1,19 @@
+!\[Python](https://img.shields.io/badge/Language-Python-blue)
+
+!\[Pygame](https://img.shields.io/badge/Framework-Pygame-green)
+
+!\[PRs Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+
+!\[Status](https://img.shields.io/badge/Project-Active-success)
+
+
+
+
+
+
+
+
+
 \# 🎮 Catch The Falling Fruits
 
 
